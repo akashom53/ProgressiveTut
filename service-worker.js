@@ -15,23 +15,23 @@
 var dataCacheName = 'weatherData-v1';
 var cacheName = 'weatherPWA-final-1';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/scripts/app.js',
-  '/styles/inline.css',
-  '/images/clear.png',
-  '/images/cloudy-scattered-showers.png',
-  '/images/cloudy.png',
-  '/images/fog.png',
-  '/images/ic_add_white_24px.svg',
-  '~/images/ic_refresh_white_24px.svg',
-  '/images/partly-cloudy.png',
-  '/images/rain.png',
-  '/images/scattered-showers.png',
-  '/images/sleet.png',
-  '/images/snow.png',
-  '/images/thunderstorm.png',
-  '/images/wind.png'
+  '/ProgressiveTut/',
+  '/ProgressiveTut/index.html',
+  '/ProgressiveTut/scripts/app.js',
+  '/ProgressiveTut/styles/inline.css',
+  '/ProgressiveTut/images/clear.png',
+  '/ProgressiveTut/images/cloudy-scattered-showers.png',
+  '/ProgressiveTut/images/cloudy.png',
+  '/ProgressiveTut/images/fog.png',
+  '/ProgressiveTut/images/ic_add_white_24px.svg',
+  '/ProgressiveTut/ProgressiveTut/images/ic_refresh_white_24px.svg',
+  '/ProgressiveTut/images/partly-cloudy.png',
+  '/ProgressiveTut/images/rain.png',
+  '/ProgressiveTut/images/scattered-showers.png',
+  '/ProgressiveTut/images/sleet.png',
+  '/ProgressiveTut/images/snow.png',
+  '/ProgressiveTut/images/thunderstorm.png',
+  '/ProgressiveTut/images/wind.png'
 ];
 
 self.addEventListener('install', function(e) {
