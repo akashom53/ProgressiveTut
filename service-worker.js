@@ -24,7 +24,7 @@ var filesToCache = [
   '/ProgressiveTut/images/cloudy.png',
   '/ProgressiveTut/images/fog.png',
   '/ProgressiveTut/images/ic_add_white_24px.svg',
-  '/ProgressiveTut/ProgressiveTut/images/ic_refresh_white_24px.svg',
+  '/ProgressiveTut/images/ic_refresh_white_24px.svg',
   '/ProgressiveTut/images/partly-cloudy.png',
   '/ProgressiveTut/images/rain.png',
   '/ProgressiveTut/images/scattered-showers.png',
